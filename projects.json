@@ -42,7 +42,7 @@
         "release": "0.1",
         "ip": "greydesh.ddns.net:25572",
         "img_background": "https://raw.githubusercontent.com/GreyDesh/battlecraft_launcher_data/refs/heads/main/zombie/wallpaper.png",
-        "ico": "https://raw.githubusercontent.com/GreyDesh/battlecraft_launcher_data/refs/heads/main/zombie/wallpaper.png",
+        "ico": "https://raw.githubusercontent.com/GreyDesh/battlecraft_launcher_data/refs/heads/main/zombie/icon.png",
         "col1": [
             43,
             66,
